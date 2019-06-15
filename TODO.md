@@ -1,135 +1,135 @@
 ## TODO:
 
-- [] Fundamentos de imagens digitais - Operações aritméticas sobre imagens (aritm.py)
+- [ ] Fundamentos de imagens digitais - Operações aritméticas sobre imagens (aritm.py)
 - - [X] Header
 - - [X] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [] Fundamentos de imagens digitais - Operações lógicas sobre imagens (logic.py)
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
+- [ ] Fundamentos de imagens digitais - Operações lógicas sobre imagens (logic.py)
 - - [X] Header
-- - [] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [] Transformações de intensidade - Negativo de uma imagem (neg.py)
+- - [ ] Exemple
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
+- [ ] Transformações de intensidade - Negativo de uma imagem (neg.py)
 - - [X] Header
-- - [] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [] Transformações de intensidade - Transformação gama (gama.py)
+- - [ ] Exemple
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
+- [ ] Transformações de intensidade - Transformação gama (gama.py)
 - - [X] Header
-- - [] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [] Transformações de intensidade - Alargamento de contraste (cont.py)
-- - [X] Header
-- - [X] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [] Transformações de intensidade -  Construção de histogramas (hist.py)
+- - [ ] Exemple
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
+- [ ] Transformações de intensidade - Alargamento de contraste (cont.py)
 - - [X] Header
 - - [X] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [] Transformações de intensidade - Equalização de histograma (eq.py)
-- - [X] Header
-- - [] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [] Filtragem espacial para suavização  - Filtro de média (media.py)
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
+- [ ] Transformações de intensidade -  Construção de histogramas (hist.py)
 - - [X] Header
 - - [X] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [] Filtragem espacial para suavização  - Filtro gaussiano (gaus.py)
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
+- [ ] Transformações de intensidade - Equalização de histograma (eq.py)
+- - [X] Header
+- - [ ] Exemple
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
+- [ ] Filtragem espacial para suavização  - Filtro de média (media.py)
 - - [X] Header
 - - [X] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [] Filtragem espacial para suavização  - Filtro da mediana (med.py)
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
+- [ ] Filtragem espacial para suavização  - Filtro gaussiano (gaus.py)
 - - [X] Header
 - - [X] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [] Filtragem espacial para suavização  - Filtro de máximo e mínimo (maxmin.py)
-- - [X] Header
-- - [] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [] Filtragem espacial para aguçamento - o Laplaciano (lap.py)
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
+- [ ] Filtragem espacial para suavização  - Filtro da mediana (med.py)
 - - [X] Header
 - - [X] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [] Filtragem espacial para aguçamento - Máscara de nitidez e high-boost (nit.py)
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
+- [ ] Filtragem espacial para suavização  - Filtro de máximo e mínimo (maxmin.py)
 - - [X] Header
-- - [] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [] Filtragem espacial para aguçamento - Gradiente (grad.py)
-- - [X] Header
-- - [X] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [] Segmentação – Detecção de bordas - Efeitos da suavização da detecção de bordas (bordas_s.py)
-- - [X] Header
-- - [] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [] Segmentação – Detecção de bordas - Efeitos da suavização e limiarização na detecção de bordas (bordas_l.py)
-- - [X] Header
-- - [] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [] Segmentação – Detecção de bordas - Limiarização iterativa (lim_it.py)
-- - [X] Header
-- - [] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [] Segmentação – Detecção de bordas - Limiarização utilizando o método de Otsu (otsu.py)
+- - [ ] Exemple
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
+- [ ] Filtragem espacial para aguçamento - o Laplaciano (lap.py)
 - - [X] Header
 - - [X] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [] Segmentação – Detecção de bordas - Efeito da suavização na limiarização (lim_s.py)
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
+- [ ] Filtragem espacial para aguçamento - Máscara de nitidez e high-boost (nit.py)
 - - [X] Header
-- - [] Exemple
-- - [] Refactoring
-- - [] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
+- - [ ] Exemple
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
+- [ ] Filtragem espacial para aguçamento - Gradiente (grad.py)
+- - [X] Header
+- - [X] Exemple
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
+- [ ] Segmentação – Detecção de bordas - Efeitos da suavização da detecção de bordas (bordas_s.py)
+- - [X] Header
+- - [ ] Exemple
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
+- [ ] Segmentação – Detecção de bordas - Efeitos da suavização e limiarização na detecção de bordas (bordas_l.py)
+- - [X] Header
+- - [ ] Exemple
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
+- [ ] Segmentação – Detecção de bordas - Limiarização iterativa (lim_it.py)
+- - [X] Header
+- - [ ] Exemple
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
+- [ ] Segmentação – Detecção de bordas - Limiarização utilizando o método de Otsu (otsu.py)
+- - [X] Header
+- - [X] Exemple
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
+- [ ] Segmentação – Detecção de bordas - Efeito da suavização na limiarização (lim_s.py)
+- - [X] Header
+- - [ ] Exemple
+- - [ ] Refactoring
+- - [ ] Polish
+- - [ ] LaTeX: Descrição do Algoritmo
+- - [ ] LaTeX: Detalhamento
