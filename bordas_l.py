@@ -6,13 +6,14 @@
 #          - MatheusRV (3929)
 #          - iguit0 (matriculaIgorNum)
 #
-# Segmentação – Detecção de bordas - Efeito da suavização na limiarização
+# Segmentação – Detecção de bordas - Efeitos da suavização e limiarização na detecção de bordas
 # Como Executar:
-#  $ python lim_s.py <img_entrada> <img_saida> <maks_size>
+#  $ python bordas_l.py <img_entrada> <img_saida> <mask_size>
 #
 # Instruções do Projeto:
 #  - Utilizar o filtro da média.
-#  - Utilizar o método de Otsu.
+#  - Utilizar o gradiente de Sobel.
+#  - Utilizar o limiar de 20% da maior intensidade da imagem.
 #
 
 ## TODO:
