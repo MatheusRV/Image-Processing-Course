@@ -1,8 +1,8 @@
-## TODO:
+## TODO :pushpin:
 
 - [ ] Fundamentos de imagens digitais - Operações aritméticas sobre imagens (aritm.py)
 - - [X] Header
-- - [X] Exemple
+- - [X] Example
 - - [ ] Refactoring
 - - [ ] Polish
 - - [ ] LaTeX: Descrição do Algoritmo

@@ -1,11 +1,11 @@
 
 # Universidade Federal de Viçosa - Campus Rio Paranaíba
-# Sistemas de Informação - Processamento Digital de Imagens
+# Sistemas de Informação - SIN392 Processamento Digital de Imagens
 #
 # Professor: Joao Mari
 # Autores:
 #          - MatheusRV (3929)
-#          - iguit0 (matriculaIgorNum)
+#          - iguit0 (3902)
 #
 # Segmentação – Limiarização - Limiarização utilizando o método de Otsu 
 # Como Executar:

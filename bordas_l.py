@@ -4,7 +4,7 @@
 # Professor: Joao Mari
 # Autores:
 #          - MatheusRV (3929)
-#          - iguit0 (matriculaIgorNum)
+#          - iguit0 (3902)
 #
 # Segmentação – Detecção de bordas - Efeitos da suavização e limiarização na detecção de bordas
 # Como Executar:

@@ -4,7 +4,7 @@
 # Professor: Joao Mari
 # Autores:
 #          - MatheusRV (3929)
-#          - iguit0 (matriculaIgorNum)
+#          - iguit0 (3902)
 #
 # Fundamentos de imagens digitais - Operações aritméticas sobre imagens
 # Como Executar:

@@ -4,7 +4,7 @@
 # Professor: Joao Mari
 # Autores:
 #          - MatheusRV (3929)
-#          - iguit0 (matriculaIgorNum)
+#          - iguit0 (3902)
 #
 # Filtragem espacial para aguçamento - Gradiente
 # Como Executar:
