@@ -5,6 +5,7 @@
 # Autores:
 #          - MatheusRV (3929)
 #          - iguit0 (3902)
+#          - ThiagoMunich (3628)
 #
 # Segmentação – Detecção de bordas - Efeito da suavização na limiarização
 # Como Executar:

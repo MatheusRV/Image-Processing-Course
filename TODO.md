@@ -1,17 +1,17 @@
 ## TODO :pushpin:
 
-- [ ] Fundamentos de imagens digitais - Operações aritméticas sobre imagens (aritm.py)
+- [X] Fundamentos de imagens digitais - Operações aritméticas sobre imagens (aritm.py)
 - - [X] Header
 - - [X] Example
-- - [ ] Refactoring
-- - [ ] Polish
-- - [ ] LaTeX: Descrição do Algoritmo
-- - [ ] LaTeX: Detalhamento
+- - [X] Refactoring
+- - [X] Polish
+- - [] LaTeX: Descrição do Algoritmo
+- - [] LaTeX: Detalhamento
 - [ ] Fundamentos de imagens digitais - Operações lógicas sobre imagens (logic.py)
 - - [X] Header
-- - [ ] Example
-- - [ ] Refactoring
-- - [ ] Polish
+- - [X] Example
+- - [X] Refactoring
+- - [X] Polish
 - - [ ] LaTeX: Descrição do Algoritmo
 - - [ ] LaTeX: Detalhamento
 - [ ] Transformações de intensidade - Negativo de uma imagem (neg.py)

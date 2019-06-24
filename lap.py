@@ -5,6 +5,7 @@
 # Autores:
 #          - MatheusRV (3929)
 #          - iguit0 (3902)
+#          - ThiagoMunich (3628)
 #
 # Filtragem espacial para aguçamento - o Laplaciano
 # Como Executar:

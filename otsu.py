@@ -6,6 +6,7 @@
 # Autores:
 #          - MatheusRV (3929)
 #          - iguit0 (3902)
+#          - ThiagoMunich (3628)
 #
 # Segmentação – Limiarização - Limiarização utilizando o método de Otsu 
 # Como Executar:
