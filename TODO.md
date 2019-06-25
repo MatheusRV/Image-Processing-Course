@@ -5,50 +5,50 @@
 - - [X] Example
 - - [X] Refactoring
 - - [X] Polish
-- - [] LaTeX: Descrição do Algoritmo
-- - [] LaTeX: Detalhamento
-- [ ] Fundamentos de imagens digitais - Operações lógicas sobre imagens (logic.py)
+- - [X] LaTeX: Descrição do Algoritmo
+- - [X] LaTeX: Detalhamento
+- [X] Fundamentos de imagens digitais - Operações lógicas sobre imagens (logic.py)
 - - [X] Header
 - - [X] Example
 - - [X] Refactoring
 - - [X] Polish
-- - [ ] LaTeX: Descrição do Algoritmo
-- - [ ] LaTeX: Detalhamento
-- [ ] Transformações de intensidade - Negativo de uma imagem (neg.py)
-- - [X] Header
-- - [ ] Example
-- - [ ] Refactoring
-- - [ ] Polish
-- - [ ] LaTeX: Descrição do Algoritmo
-- - [ ] LaTeX: Detalhamento
-- [ ] Transformações de intensidade - Transformação gama (gama.py)
-- - [X] Header
-- - [ ] Example
-- - [ ] Refactoring
-- - [ ] Polish
-- - [ ] LaTeX: Descrição do Algoritmo
-- - [ ] LaTeX: Detalhamento
-- [ ] Transformações de intensidade - Alargamento de contraste (cont.py)
+- - [X] LaTeX: Descrição do Algoritmo
+- - [X] LaTeX: Detalhamento
+- [X] Transformações de intensidade - Negativo de uma imagem (neg.py)
 - - [X] Header
 - - [X] Example
-- - [ ] Refactoring
-- - [ ] Polish
-- - [ ] LaTeX: Descrição do Algoritmo
-- - [ ] LaTeX: Detalhamento
-- [ ] Transformações de intensidade -  Construção de histogramas (hist.py)
+- - [X] Refactoring
+- - [X] Polish
+- - [X] LaTeX: Descrição do Algoritmo
+- - [X] LaTeX: Detalhamento
+- [X] Transformações de intensidade - Transformação gama (gama.py)
 - - [X] Header
 - - [X] Example
-- - [ ] Refactoring
-- - [ ] Polish
-- - [ ] LaTeX: Descrição do Algoritmo
-- - [ ] LaTeX: Detalhamento
-- [ ] Transformações de intensidade - Equalização de histograma (eq.py)
+- - [X] Refactoring
+- - [X] Polish
+- - [X] LaTeX: Descrição do Algoritmo
+- - [X] LaTeX: Detalhamento
+- [X] Transformações de intensidade - Alargamento de contraste (cont.py)
 - - [X] Header
-- - [ ] Example
-- - [ ] Refactoring
-- - [ ] Polish
-- - [ ] LaTeX: Descrição do Algoritmo
-- - [ ] LaTeX: Detalhamento
+- - [X] Example
+- - [X] Refactoring
+- - [X] Polish
+- - [X] LaTeX: Descrição do Algoritmo
+- - [X] LaTeX: Detalhamento
+- [X] Transformações de intensidade -  Construção de histogramas (hist.py)
+- - [X] Header
+- - [X] Example
+- - [X] Refactoring
+- - [X] Polish
+- - [X] LaTeX: Descrição do Algoritmo
+- - [X] LaTeX: Detalhamento
+- [X] Transformações de intensidade - Equalização de histograma (eq.py)
+- - [X] Header
+- - [X] Example
+- - [X] Refactoring
+- - [X] Polish
+- - [X] LaTeX: Descrição do Algoritmo
+- - [X] LaTeX: Detalhamento
 - [ ] Filtragem espacial para suavização  - Filtro de média (media.py)
 - - [X] Header
 - - [X] Example
