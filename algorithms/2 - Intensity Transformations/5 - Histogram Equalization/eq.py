@@ -29,7 +29,7 @@ img_saida = exposure.equalize_hist(img_1)
 
 # Faz o salvamento da imagem de saída após o processamento
 misc.imsave(saida, img_saida)
-
+'''
 # Organiza o plote das imagens
 plt.figure()
 plt.subplot(221)
@@ -41,7 +41,7 @@ plt.title('img_saida')
 
 # Plota as imagens de entrada e saída na tela
 plt.show()
-
+'''
 
 
 '''
