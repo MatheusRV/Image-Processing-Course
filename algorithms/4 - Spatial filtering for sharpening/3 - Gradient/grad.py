@@ -20,10 +20,8 @@ import matplotlib.pyplot as plt
 from scipy import misc
 from skimage import color, data, util
 
-
 def loadImg(arg):
     return misc.imread(arg)
-
 
 img = loadImg(sys.argv[1])
 saida = sys.argv[2] + '_grad.tif'

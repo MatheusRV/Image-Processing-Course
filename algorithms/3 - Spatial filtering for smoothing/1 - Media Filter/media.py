@@ -11,6 +11,7 @@
 # Como Executar:
 #  $ python media.py img_1 saida <mask_size>
 #  <mask_size> é um número inteiro. Exemplo: Se mask_size=3 então a máscara possui tamanho 3x3.
+#
 
 import sys
 import os
@@ -20,10 +21,8 @@ import matplotlib.pyplot as plt
 from scipy import misc
 from skimage import color, data, util
 
-
 def loadImg(arg):
     return misc.imread(arg)
-
 
 img = loadImg(sys.argv[1])
 saida = sys.argv[2] + '_media.tif'
