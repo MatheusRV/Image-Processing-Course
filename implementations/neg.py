@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 from scipy import misc
 
 def loadImg(arg):
-    return misc.imread(arg)
+    return misc.imread("../../../assets/"+arg)
 
 # Lê a imagem a partir de um arquivo
 img_1 = loadImg(sys.argv[1])
