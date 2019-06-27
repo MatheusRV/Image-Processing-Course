@@ -99,17 +99,17 @@
 - - [ ] LaTeX: Descrição do Algoritmo
 - - [ ] LaTeX: Detalhamento
 - [ ] Segmentação – Detecção de bordas - Efeitos da suavização da detecção de bordas (bordas_s.py)
-- - [ ] Header
-- - [ ] Example
-- - [ ] Refactoring
-- - [ ] Polish
+- - [X] Header
+- - [X] Example
+- - [X] Refactoring
+- - [X] Polish
 - - [ ] LaTeX: Descrição do Algoritmo
 - - [ ] LaTeX: Detalhamento
 - [ ] Segmentação – Detecção de bordas - Efeitos da suavização e limiarização na detecção de bordas (bordas_l.py)
-- - [ ] Header
-- - [ ] Example
-- - [ ] Refactoring
-- - [ ] Polish
+- - [X] Header
+- - [X] Example
+- - [X] Refactoring
+- - [X] Polish
 - - [ ] LaTeX: Descrição do Algoritmo
 - - [ ] LaTeX: Detalhamento
 - [X] Segmentação – Detecção de bordas - Limiarização iterativa (lim_it.py)
