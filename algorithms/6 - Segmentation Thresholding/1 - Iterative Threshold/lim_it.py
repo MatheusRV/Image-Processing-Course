@@ -69,8 +69,7 @@ def loadImg(arg):
 # Lê a imagem a partir de um arquivo
 img_1 = loadImg(sys.argv[1])
 saida = sys.argv[2]+'.tif'
-T_ini = sys.argv[3]
-T_ini = float(T_ini)
+T_ini = float(sys.argv[3])
 
 # Converte os pixels em float, com valores entre 0 e 1
 img_1 = img_as_float(img_1.astype(np.uint8))
